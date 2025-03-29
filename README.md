@@ -74,6 +74,6 @@
 ###
 
 ## 📊 GitHub Stats  
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminejmal&show_icons=true&theme=radical)
+![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medjmalami&show_icons=true&theme=radical)
 
 
