@@ -69,5 +69,11 @@
 ## 📫 Connect With Me  
 
 - 📧 **Email:** [jmalmohamedamine1@gmail.com](mailto:jmalmohamedamine1@gmail.com)  
-- 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)  
+- 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)
+
+###
+
+## 📊 GitHub Stats  
+![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminejmal&show_icons=true&theme=radical)
+
 
