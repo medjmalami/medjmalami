@@ -66,7 +66,8 @@
 
 ###
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
-- 📧 Email: jmalmohamedamine1@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)  
+- 📧 **Email:** [jmalmohamedamine1@gmail.com](mailto:jmalmohamedamine1@gmail.com)  
+- 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)  
+
