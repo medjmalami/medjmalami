@@ -16,6 +16,14 @@
 
 ###
 
+## 💼 Portfolio
+
+Check out some of my featured work and personal projects:  
+👉 [My Portfolio Website](https://portfolio-jmal.vercel.app/)  
+You'll find full-stack apps, API projects, and cool frontend interfaces I've built using React, Node.js, PostgreSQL, Docker, and more.
+
+###
+
 ## 🛠️ I Code With
 
 <div align="left">
@@ -83,8 +91,5 @@ You can view each of these certifications and the projects I built on my [freeCo
 ## 📫 Connect With Me  
 
 - 📧 **Email:** [jmalmohamedamine1@gmail.com](mailto:jmalmohamedamine1@gmail.com)  
-- 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)
+- 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)  
 - 🌍 **GitHub**: [Amine's GitHub](https://github.com/medjmalami)
-
-
-
