@@ -1,20 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I’m Mohamed Amine Jmal 👋
 
-###
+Software Engineering student with hands-on experience building and experimenting with real-world web systems.
 
-<p align="left">My name is Amine, from Tunisia 🇹🇳</p>
+I focus mainly on backend-heavy and full-stack applications, with an interest in clean architecture, data modeling, and system reliability.
 
-###
-
-## 🚀 About Me
-
-💻 Full-stack JavaScript Developer | TypeScript  
-🐧 Arch Linux user | Docker & PostgreSQL enthusiast  
-📈 Learning & exploring software engineering, freelancing, and trading  
-
-✨ I love building cool projects, solving problems, and contributing to open-source!  
-
-###
+---
 
 ## 💼 Portfolio
 
@@ -76,20 +66,9 @@ You'll find full-stack apps, API projects, and cool frontend interfaces I've bui
 
 ###
 
-## 📚 Certifications
-
-I’ve completed the following freeCodeCamp certifications:
-- **JavaScript Algorithms and Data Structures**
-- **Front-End Development Libraries** (React, Redux, etc.)
-- **Back-End Development and APIs** (Node.js, Express)
-- **Quality Assurance (Testing)**
-
-You can view each of these certifications and the projects I built on my [freeCodeCamp Profile](https://www.freecodecamp.org/Mohamed-Amine-Jmal).
-
 ---
 
 ## 📫 Connect With Me  
 
 - 📧 **Email:** [jmalmohamedamine1@gmail.com](mailto:jmalmohamedamine1@gmail.com)  
 - 💼 **LinkedIn:** [Mohamed Amine Jmal](https://www.linkedin.com/in/mohamed-amine-jmal-b68965252/)  
-- 🌍 **GitHub**: [Amine's GitHub](https://github.com/medjmalami)
